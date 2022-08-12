@@ -89,6 +89,8 @@ There are probably lots of better ways, actually.
 
 But I don't let me threaten myself with a good time.
 
+This should take a while.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -139,6 +141,7 @@ Apply directly to the forehead
 - [x] Init — 11-AUG-2022
 - [ ] Chapter 1
     - [x] [1.1 Unpacking a Sequence into Separate Variables](./notebooks/01_Data_Structures_and_Algorithms/01-01%20Unpacking%20a%20Sequence%20into%20Separate%20Variables.ipynb) — 11-AUG-2022
+    - [x] [1.2 Unpacking Elements from Iterables of Arbitrary Length](./notebooks/01_Data_Structures_and_Algorithms/01_02%20Unpacking%20Elements%20from%20Iterables%20of%20Arbitrary%20Length.ipynb) — 11-AUG-2022
 - [ ] Chapter 2
 - [ ] Chapter 3
 - [ ] Chapter 4
@@ -155,25 +158,7 @@ Apply directly to the forehead
 - [ ] Chapter 15
 
 
-See the [open issues](https://github.com/obverter/cooking_the_cookbook/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+See the [open issues](https://github.com/obverter/cooking_the_cookbook/issues) for a full list of problems I probably won't get around to solving.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
