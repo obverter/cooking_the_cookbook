@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/obverter/cooking_the_cookbook">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/cookbook.png">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Cooking the Cookbook</h3>
 
   <p align="center">
-    project_description
+    Implementing every chapter and section of the Python Cookbook. Eventually.
     <br />
     <a href="https://github.com/obverter/cooking_the_cookbook"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `obverter`, `cooking_the_cookbook`, `obverter`, `BenTylerElliott`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `obverter`, `cooking_the_cookbook`, `obverter`, `BenTylerElliott`, `@obverter.com`, `ben`, `Cooking the Cookbook`, `Implementing every chapter and section of the Python Cookbook. Eventually.`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,43 +115,17 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 Clone me from GitHub:
 
 ```bash
-gh repo clone obverter/cooking_the_cookbook
+$ gh repo clone obverter/cooking_the_cookbook
 ```
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/obverter/cooking_the_cookbook.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+Computer
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Apply directly to the forehead
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,9 +134,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Init — 11-AUG-2022
+- [x] Init — 11-AUG-2022
 - [ ] Chapter 1
-    - [ ] [1.1 Unpacking a Sequence into Separate Variables](./notebooks/01_Data_Structures_and_Algorithms/01-01%20Unpacking%20a%20Sequence%20into%20Separate%20Variables.ipynb)
+    - [x] [1.1 Unpacking a Sequence into Separate Variables](./notebooks/01_Data_Structures_and_Algorithms/01-01%20Unpacking%20a%20Sequence%20into%20Separate%20Variables.ipynb) — 11-AUG-2022
 - [ ] Chapter 2
 - [ ] Chapter 3
 - [ ] Chapter 4
@@ -215,7 +189,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@obverter](https://twitter.com/obverter) - email@email_client.com
+Your Name - [@obverter](https://twitter.com/obverter) - ben@@obverter.com.com
 
 Project Link: [https://github.com/obverter/cooking_the_cookbook](https://github.com/obverter/cooking_the_cookbook)
 
