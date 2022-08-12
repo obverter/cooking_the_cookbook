@@ -191,7 +191,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@obverter](https://twitter.com/obverter) - ben@@obverter.com.com
+Ben Elliott - [@obverter](https://twitter.com/obverter) - ben@obverter.com
 
 Project Link: [https://github.com/obverter/cooking_the_cookbook](https://github.com/obverter/cooking_the_cookbook)
 
