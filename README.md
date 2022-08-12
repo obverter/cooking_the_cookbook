@@ -83,9 +83,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+What better way to learn Python than to implement every chapter and section of the Python Cookbook?
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `obverter`, `cooking_the_cookbook`, `obverter`, `BenTylerElliott`, `@obverter.com`, `ben`, `Cooking the Cookbook`, `Implementing every chapter and section of the Python Cookbook. Eventually.`
+There are probably lots of better ways, actually.
+
+But I don't let me threaten myself with a good time.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
