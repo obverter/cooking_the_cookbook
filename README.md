@@ -189,9 +189,8 @@ Project Link: [https://github.com/obverter/cooking_the_cookbook](https://github.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [John Dyer Baizley](https://assets.bigcartel.com/product_images/300517953/jb_apm_sm.jpg?auto=format&fit=max&w=1300)
+* [Brian Jones](https://en.wikipedia.org/wiki/Brian_Jones)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
