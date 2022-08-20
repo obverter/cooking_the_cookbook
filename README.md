@@ -140,9 +140,10 @@ Apply directly to the forehead
 
 - [x] Init — 11-AUG-2022
 - [ ] Chapter 1
-    - [x] [1.1 Unpacking a Sequence into Separate Variables](./notebooks/01_Data_Structures_and_Algorithms/01-01%20Unpacking%20a%20Sequence%20into%20Separate%20Variables.ipynb) — 11-AUG-2022
-    - [x] [1.2 Unpacking Elements from Iterables of Arbitrary Length](./notebooks/01_Data_Structures_and_Algorithms/01_02%20Unpacking%20Elements%20from%20Iterables%20of%20Arbitrary%20Length.ipynb) — 11-AUG-2022
-    - [x] [1.3 Keeping the Last N Items](./notebooks/01_Data_Structures_and_Algorithms/01_03%20Keeping-the-Last-N-Items.ipynb) — 17-AUG-2022
+    - [x] [1.1 Unpacking a Sequence into Separate Variables](./notebooks/01_Data_Structures_and_Algorithms/0101_Unpacking-a-Sequence-into-Separate-Variables.ipynb) — 11-AUG-2022
+    - [x] [1.2 Unpacking Elements from Iterables of Arbitrary Length](./notebooks/01_Data_Structures_and_Algorithms/0102_Unpacking-Elements-from-Iterables-of-Arbitrary-Length.ipynb) — 11-AUG-2022
+    - [x] [1.3 Keeping the Last N Items](./notebooks/01_Data_Structures_and_Algorithms/0103_Keeping-the-Last-N-Items.ipynb) — 17-AUG-2022
+    - [x] [1.4 Finding the N Largest or Smallest Items](./notebooks/01_Data_Structures_and_Algorithms/0104_Finding-the-N-Largest-or-Smallest-Items.ipynb) — 19-AUG-2022
 - [ ] Chapter 2
 - [ ] Chapter 3
 - [ ] Chapter 4
